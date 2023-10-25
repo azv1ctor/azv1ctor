@@ -12,10 +12,10 @@
 - 🌍 Moro em Campos dos Goytacazes  
   
 
-- ✉️ Você pode entrar em contato comigo através do email[joaovictoralvesazevedo@gmail.com)  
+- ✉️ Você pode entrar em contato comigo através do [email](joaovictoralvesazevedo@gmail.com)  
   
 
-- 🧠 No momento estou estudando Python   
+- 🧠 No momento estou estudando Python  
   
 
 <br/>  
