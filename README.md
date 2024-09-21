@@ -72,7 +72,7 @@ Atualmente, estou me aprofundando em **Flutter** para desenvolvimento mobile e m
   <a href="https://www.linkedin.com/in/jo%C3%A3o-alves-a4a1b3250/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@example.com">
+  <a href="mailto:jvictoralvesazevedo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/azv1ctor">
