@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Victor! 👋</h1>
+<h1 align="center">Olá, eu sou o João Victor! 👋</h1>
 
 <p align="center">
   Sou um desenvolvedor full-stack apaixonado por tecnologia, focado em entregar soluções robustas e eficientes. Busco sempre aprender e aplicar as tecnologias mais recentes em meus projetos.
